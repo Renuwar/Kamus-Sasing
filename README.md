@@ -1,1 +1,1 @@
-# Kamus-Sasing
+Ngaran, jeng kamus na copas didie
