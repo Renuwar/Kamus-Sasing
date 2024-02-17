@@ -1,0 +1,31 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.search-bar {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.dictionary {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+}
+
+.dictionary-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.dictionary-item h2 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.dictionary-item p {
+    margin: 0;
+}
